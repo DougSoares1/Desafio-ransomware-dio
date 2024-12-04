@@ -5,10 +5,10 @@ Este projeto faz parte do Bootcamp de Cibersegurança do Santander e Formação 
 O objetivo principal é compreender os princípios por trás de um ransomware, desenvolvendo um código em Python que seja capaz de criptografar e descriptografar arquivos.
 
 <h2>Arquivos</h2>
-encrypter.py: Este arquivo contém o código responsável por criptografar os arquivos.
-decrypter.py: Aqui está o código que permite descriptografar um arquivo previamente criptografado.
+encrypter.py: Este arquivo contém o código responsável por criptografar os arquivos.</br>
+decrypter.py: Aqui está o código que permite descriptografar um arquivo previamente criptografado.</br>
 example.txt: Um arquivo de exemplo contendo uma frase/trecho ou palavra para ilustrar o funcionamento do ransomware.
-Ferramentas
+Ferramentas</br>
 Foi utlizado o Kali Linux e a escrita do código no próprio Nano do Kali Linux.
 
 <h2>Aviso</h2>
